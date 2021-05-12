@@ -5,3 +5,9 @@
 \\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\Task1\bin\Debug\Task1.pdb
 \\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\Task1\obj\Debug\Task1.exe
 \\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\Task1\obj\Debug\Task1.pdb
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\Task1\obj\Debug\Task1.pdb

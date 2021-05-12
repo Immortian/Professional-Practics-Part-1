@@ -14,9 +14,29 @@ namespace Task1
         static void Main(string[] args)
         {
             var collection = new MonthsCollection(GenerateMonths());
-            Console.WriteLine(collection.FilterbyNumber(1));
-            foreach (var mon in collection.FilterbyCountDays(30))
-                Console.WriteLine(string.Join(" ", mon.name, mon.number, mon.countDays));
+            Console.WriteLine("Месяц под новером 1 - это ");
+            OutputMonth(collection.FilterbyNumber(1));
+            Console.WriteLine("Месяца в которых 30 дней - это ");
+            OutputMonth(collection, 30);
+        }
+        private static void OutputMonth(MonthsCollection collection, int days)
+        {
+            foreach (var mon in collection.FilterbyCountDays(days))
+            {
+                Console.Write("{0, -10}", mon.name);
+                Console.Write("|{0, -10}", mon.number);
+                Console.WriteLine("|{0, -10}", mon.countDays);
+            }
+            Console.Write("\n");
+            Console.ReadKey();
+        }
+        private static void OutputMonth(Element mon)
+        {
+            Console.Write("{0, -10}", mon.name);
+            Console.Write("|{0, -10}", mon.number);
+            Console.WriteLine("|{0, -10}", mon.countDays);
+            Console.Write("\n");
+            Console.ReadKey();
         }
         private static Element[] GenerateMonths()
         {
