@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task1\\Task2\\subTask2.csproj",
-      "projectName": "subTask2",
-      "projectPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task1\\Task2\\subTask2.csproj",
+      "projectUniqueName": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj",
+      "projectName": "subTask1",
+      "projectPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj",
       "packagesPath": "C:\\Users\\andmo\\.nuget\\packages\\",
-      "outputPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task1\\Task2\\obj\\",
+      "outputPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
