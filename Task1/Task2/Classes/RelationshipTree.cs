@@ -18,6 +18,12 @@ namespace Task2.Classes
             Family = new Human[1];
         }
 
+        public Human this[int i]
+        {
+            get => Family[i];
+            set => Family[i] = value;
+        }
+
         public enum AddOption { AsChild, AsPerent}
 
         int position = -1;
@@ -183,6 +189,18 @@ namespace Task2.Classes
             }
             return childs.Family;
         }
+
+        public Human[] bornIn(int year)
+        {
+            RelationshipTree bornIn = new RelationshipTree();
+            foreach(var human in Family)
+            {
+                if(human.Birthyear == year)
+                    bornIn.Add(human);
+            }
+            return bornIn.Family;
+        }
+
         public int Count => Family.Length;
 
         public bool IsSynchronized => true;
