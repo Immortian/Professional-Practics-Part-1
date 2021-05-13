@@ -1,0 +1,11 @@
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.exe
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.deps.json
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.runtimeconfig.json
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.runtimeconfig.dev.json
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.dll
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.pdb
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.csprojAssemblyReference.cache
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.AssemblyInfoInputs.cache
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.AssemblyInfo.cs
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.dll
+C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.pdb
