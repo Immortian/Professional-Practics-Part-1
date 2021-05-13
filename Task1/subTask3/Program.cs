@@ -14,11 +14,11 @@ namespace subTask3
         }
         static void createWords()
         {
-            Words[] arr;
-            Words w1 = new Words("Абоба", "Абiба", "Abooba");
-            Words w2 = new Words("Брух", "Брух", "Bruh");
-            Words w3 = new Words("Спинер", "Як'ысь геiска хуiта", "spinner");
-            arr = new Words[] { w1, w2, w3 };
+            Word[] arr;
+            Word w1 = new Word("Абоба", "Абiба", "Abooba");
+            Word w2 = new Word("Брух", "Брух", "Bruh");
+            Word w3 = new Word("Спинер", "Як'ысь геiска хуiта", "spinner");
+            arr = new Word[] { w1, w2, w3 };
             dick = new Dictionary(arr);
         }
     }

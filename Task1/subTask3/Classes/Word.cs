@@ -4,9 +4,9 @@ using System.Text;
 
 namespace subTask3.Classes
 {
-    class Words
+    class Word
     {
-        public Words(string ru, string uk, string en)
+        public Word(string ru, string uk, string en)
         {
             ru_word = ru;
             uk_word = uk;

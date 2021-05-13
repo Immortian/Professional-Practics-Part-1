@@ -6,33 +6,33 @@ namespace subTask3.Classes
 {
     class Dictionary
     {
-        Words[] dictionary;
-        public Dictionary(Words[] dick)
+        Word[] dictionary;
+        public Dictionary(Word[] dick)
         {
             dictionary = dick;
         }
         public Dictionary()
         {
-            dictionary = new Words[1];
+            dictionary = new Word[1];
         }
 
-        public void Add(Words Word)
+        public void Add(Word Word)
         {
             if (dictionary == null)
-                dictionary = new Words[1];
+                dictionary = new Word[1];
 
-            if (dictionary[^1] == new Words("", "", "") || dictionary[^1] == null)
+            if (dictionary[^1] == new Word("", "", "") || dictionary[^1] == null)
                 dictionary[^1] = Word;
             else
             {
-                var newArray = new Words[dictionary.Length + 1];
+                var newArray = new Word[dictionary.Length + 1];
                 dictionary.CopyTo(newArray, 0);
                 newArray[^1] = Word;
                 dictionary = newArray;
             }
         }
 
-        public Words SearchFor(string str)
+        public Word SearchFor(string str)
         {
             foreach(var Word in dictionary)
             {
@@ -50,7 +50,7 @@ namespace subTask3.Classes
 
         public string TranslateTo(string str, TranslateOption to)
         {
-            Words Word = SearchFor(str);
+            Word Word = SearchFor(str);
             if(to == TranslateOption.English)
             {
                 return Word.en_word;
