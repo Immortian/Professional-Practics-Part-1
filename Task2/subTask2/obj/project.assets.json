@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user.UIT\\Documents\\GitHub\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj",
-      "projectName": "subTask1",
-      "projectPath": "C:\\Users\\user.UIT\\Documents\\GitHub\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj",
+      "projectUniqueName": "C:\\Users\\user.UIT\\Documents\\GitHub\\Professional-Practics-Part-1\\Task2\\subTask2\\subTask2.csproj",
+      "projectName": "subTask2",
+      "projectPath": "C:\\Users\\user.UIT\\Documents\\GitHub\\Professional-Practics-Part-1\\Task2\\subTask2\\subTask2.csproj",
       "packagesPath": "C:\\Users\\user.UIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user.UIT\\Documents\\GitHub\\Professional-Practics-Part-1\\Task2\\subTask1\\obj\\",
+      "outputPath": "C:\\Users\\user.UIT\\Documents\\GitHub\\Professional-Practics-Part-1\\Task2\\subTask2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
