@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj": {}
+    "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask3\\subTask3.csproj": {}
   },
   "projects": {
-    "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj": {
+    "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask3\\subTask3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj",
-        "projectName": "subTask1",
-        "projectPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\subTask1.csproj",
+        "projectUniqueName": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask3\\subTask3.csproj",
+        "projectName": "subTask3",
+        "projectPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask3\\subTask3.csproj",
         "packagesPath": "C:\\Users\\andmo\\.nuget\\packages\\",
-        "outputPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask1\\obj\\",
+        "outputPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task2\\subTask3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
