@@ -9,3 +9,16 @@ C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\o
 C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.AssemblyInfo.cs
 C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.dll
 C:\Users\user.UIT\Documents\GitHub\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.pdb
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.exe
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.deps.json
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.runtimeconfig.json
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.runtimeconfig.dev.json
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.dll
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\bin\Debug\netcoreapp3.1\subTask3.pdb
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.csprojAssemblyReference.cache
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.AssemblyInfoInputs.cache
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.AssemblyInfo.cs
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.csproj.CoreCompileInputs.cache
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.dll
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.pdb
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Task1\subTask3\obj\Debug\netcoreapp3.1\subTask3.genruntimeconfig.cache

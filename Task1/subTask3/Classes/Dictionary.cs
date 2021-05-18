@@ -7,9 +7,9 @@ namespace subTask3.Classes
     class Dictionary
     {
         Word[] dictionary;
-        public Dictionary(Word[] dick)
+        public Dictionary(Word[] dict)
         {
-            dictionary = dick;
+            dictionary = dict;
         }
         public Dictionary()
         {
@@ -46,7 +46,7 @@ namespace subTask3.Classes
             return null;
         }
 
-        public enum TranslateOption { Russian, Ukrain, English};
+        public enum TranslateOption { Russian, Ukrain, English };
 
         public string TranslateTo(string str, TranslateOption to)
         {
