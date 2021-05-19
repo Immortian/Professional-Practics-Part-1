@@ -1,0 +1,15 @@
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\bin\Debug\netcoreapp3.1\subTask1.exe
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\bin\Debug\netcoreapp3.1\subTask1.deps.json
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\bin\Debug\netcoreapp3.1\subTask1.runtimeconfig.json
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\bin\Debug\netcoreapp3.1\subTask1.runtimeconfig.dev.json
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\bin\Debug\netcoreapp3.1\subTask1.dll
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\bin\Debug\netcoreapp3.1\subTask1.pdb
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.csprojAssemblyReference.cache
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.AssemblyInfoInputs.cache
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.AssemblyInfo.cs
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.csproj.CoreCompileInputs.cache
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.csproj.CopyComplete
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.dll
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.pdb
+C:\Users\uituser\Documents\GitHub\Professional-Practics-Part-1\Task4\subTask1\obj\Debug\netcoreapp3.1\subTask1.genruntimeconfig.cache
