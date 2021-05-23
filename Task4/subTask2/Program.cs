@@ -5,7 +5,7 @@ namespace subTask2
 {
     class Program
     {
-        static List<string> predlogs = new List<string> { "в", "с", "к", "у", "над", "на", "перед", "при", "около", "под", "вокруг", "возле" };
+        static List<string> predlogs = new List<string> { "в", "с", "к", "у", "над", "на", "перед", "при", "около", "под", "вокруг", "возле" , "после"};
         static void Main(string[] args)
         {
             Console.WriteLine("Write string in Russian");
@@ -15,7 +15,7 @@ namespace subTask2
 
             for(int i = 0; i < words.Length; i++)
             {
-                if (predlogs.Contains(words[i]))
+                if (predlogs.Contains(words[i].ToLower()))
                     words[i] = "ГАВ!";
             }
             string result = string.Join(" ", words);

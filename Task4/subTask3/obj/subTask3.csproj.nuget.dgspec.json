@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uituser\\Documents\\GitHub\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj": {}
+    "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uituser\\Documents\\GitHub\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj": {
+    "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uituser\\Documents\\GitHub\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj",
+        "projectUniqueName": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj",
         "projectName": "subTask3",
-        "projectPath": "C:\\Users\\uituser\\Documents\\GitHub\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj",
-        "packagesPath": "C:\\Users\\uituser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uituser\\Documents\\GitHub\\Professional-Practics-Part-1\\Task4\\subTask3\\obj\\",
+        "projectPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task4\\subTask3\\subTask3.csproj",
+        "packagesPath": "C:\\Users\\andmo\\.nuget\\packages\\",
+        "outputPath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task4\\subTask3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\uituser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

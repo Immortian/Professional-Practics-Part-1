@@ -87,7 +87,7 @@ namespace Task2.Classes
             string result = "Customer " +
                 customers[i].customerIndex + ", bought this products:\n";
 
-            foreach( var prod in products.Where(x => x.productIndex == customers[i].productIndex).Distinct())
+            foreach( var prod in customers[i].productBasket)
             {
                 result += "" + prod.productName + " - " + prod.GetCategoryName(prod.productCategory) +"\n";
             }
@@ -99,9 +99,10 @@ namespace Task2.Classes
             string result = "Category " +
                 products[i].GetCategoryName(products[i].productCategory) + ", bought by:\n";
 
-            foreach (var cust in customers.Where(x => x.productIndex == products[i].productIndex).Distinct())
+            foreach (var cust in customers)
             {
-                result += "" + cust.customerIndex + "\n";
+                if(cust.productBasket.Contains(products[i]))
+                    result += "Customer " + cust.customerIndex + "\n";
             }
             return result;
         }

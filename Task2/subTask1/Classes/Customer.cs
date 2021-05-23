@@ -7,6 +7,11 @@ namespace Task2.Classes
     class Customer
     {
         public int customerIndex { get;set; }
-        public int productIndex { get; set; }
+        public Product[] productBasket { get; set; }
+        public Customer(int index, Product[] buyitems)
+        {
+            customerIndex = index;
+            productBasket = buyitems;
+        }
     }
 }

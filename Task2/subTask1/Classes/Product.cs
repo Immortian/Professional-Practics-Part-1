@@ -8,8 +8,9 @@ namespace Task2.Classes
     {
         public int productIndex { get; set; }
         public string productName { get; set; }
-        public enum Category { Food, Electronics, HouseHold, Games };
         public Category productCategory { get; set; }
+
+        public enum Category { Food, Electronics, HouseHold, Games };
         public string GetCategoryName(Category cat)
         {
             switch(cat)
@@ -24,6 +25,12 @@ namespace Task2.Classes
                     return "Games";
                 default: return null;
             }
+        }
+        public Product(int index, string name, Category category)
+        {
+            productIndex = index;
+            productName = name;
+            productCategory = category;
         }
     }
 }
