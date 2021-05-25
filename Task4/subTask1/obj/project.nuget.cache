@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "X1ae3ModveGbQGexftiWljGMt4p9QE8lc0+AAbMeLaQsD9C8xejC8+HA3xKKJoRSKcdT3PaNBGnanPzXSossDw==",
+  "dgSpecHash": "DkGBemapaHBIRfXayvy4wxxhMS7PkXBJhOh6wUknR6HXEywKqqa5k63PQzxLrrfENUriZytULRB42xXtD1fa5g==",
   "success": true,
-  "projectFilePath": "\\\\KEENETIC-3019\\Server\\Андрей\\Учеба\\3 курс\\Учебная практика\\Prof Practic 1\\Professional-Practics-Part-1\\Task4\\subTask1\\subTask1.csproj",
+  "projectFilePath": "C:\\Users\\uituser\\Documents\\GitHub\\Professional-Practics-Part-1\\Task4\\subTask1\\subTask1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\andmo\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+    "C:\\Users\\uituser\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
   ],
   "logs": []
 }
