@@ -1,0 +1,13 @@
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\bin\Debug\netcoreapp3.1\subTask2.exe
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\bin\Debug\netcoreapp3.1\subTask2.deps.json
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\bin\Debug\netcoreapp3.1\subTask2.runtimeconfig.json
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\bin\Debug\netcoreapp3.1\subTask2.runtimeconfig.dev.json
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\bin\Debug\netcoreapp3.1\subTask2.dll
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\bin\Debug\netcoreapp3.1\subTask2.pdb
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\obj\Debug\netcoreapp3.1\subTask2.csprojAssemblyReference.cache
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\obj\Debug\netcoreapp3.1\subTask2.AssemblyInfoInputs.cache
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\obj\Debug\netcoreapp3.1\subTask2.AssemblyInfo.cs
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\obj\Debug\netcoreapp3.1\subTask2.csproj.CoreCompileInputs.cache
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\obj\Debug\netcoreapp3.1\subTask2.dll
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\obj\Debug\netcoreapp3.1\subTask2.pdb
+\\KEENETIC-3019\Server\Андрей\Учеба\3 курс\Учебная практика\Prof Practic 1\Professional-Practics-Part-1\Essentional-Practics-Part-2\Task5\subTask2\obj\Debug\netcoreapp3.1\subTask2.genruntimeconfig.cache
