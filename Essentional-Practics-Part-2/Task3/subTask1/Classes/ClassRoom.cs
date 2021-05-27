@@ -46,7 +46,6 @@ namespace subTask1.Classes
 
         }
     }
-
     public class Pupil
     {
         public Pupil(int Num)

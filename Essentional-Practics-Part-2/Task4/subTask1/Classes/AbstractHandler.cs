@@ -152,7 +152,6 @@ namespace subTask1.Classes
                 }
             }
         }
-
         public override void Save()
         {
             Console.WriteLine("DOC файл сохранен");

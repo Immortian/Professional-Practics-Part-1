@@ -42,15 +42,6 @@ namespace subTask2.Clsses
             alt = Alt;
             count_passengers = Passangers;
         }
-
-        public double GetAlt()
-        {
-            return alt;
-        }
-        public int GetPassangers()
-        {
-            return count_passengers;
-        }
     }
     class Car: Vehicle
     {
